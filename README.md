@@ -1,2 +1,2 @@
 # baby-name-statistics
-A program to find analyze baby names - a Coursera project
+A program to analyze baby names - a Coursera project
